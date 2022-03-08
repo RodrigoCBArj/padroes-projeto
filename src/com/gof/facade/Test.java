@@ -4,9 +4,11 @@ public class Test {
 
     public static void main(String[] args) {
 
-        // Testando
+        // Testes relacionados ao Design Pattern Facade
 
         Facade facade = new Facade();
         facade.migrarCliente("Rodrigo", "99888-777");
+
+        facade.migrarCliente("José", "66555-444");
     }
 }
