@@ -1,4 +1,4 @@
-package com.gof.stratergy;
+package com.gof.strategy;
 
 public class ComportamentoNormal implements Comportamento {
 
